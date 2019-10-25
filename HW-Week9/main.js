@@ -6,7 +6,7 @@ async function f(x,y) {
 
   }
 
-  f(1,2).then();
+  f(2,6).then();
 
 
 
