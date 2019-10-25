@@ -39,7 +39,7 @@ calculateSum(2,6)
 
 async function writeDataToFile(){  
 
-    await fetch('https://api.github.com/users/id'); 
+    await fetch('http://myapi.com'); 
 
     let data = data.map(function (x) {
 
